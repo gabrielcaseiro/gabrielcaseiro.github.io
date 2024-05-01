@@ -19,4 +19,5 @@ author_profile: true
 
 * **Eleições e Política Partidária na Nova República** (*Elections and Party Politics in the New Republic*; with Fernando Limongi) [Forthcoming]
   * Prepared for the book *Entre crises: política partidária no Brasil da Nova República*, edited by Leonardo Weller and Fernando Limongi.
+  * [Preview](http://gabrielcaseiro.github.io/files/EleicoesBR_Limongi_Caseiro_APR24.pdf)
 
