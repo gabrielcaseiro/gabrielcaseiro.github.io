@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gabriel Caseiro"
 title_separator          : "-"
 name                     : &name "Gabriel Caseiro"
-description              : &description "Teste"
+description              : &description "Personal Page"
 url                      : https://gabrielcaseiro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gabrielcaseiro/gabrielcaseiro.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Gabriel Caseiro"
   avatar           : "profile.png"
-  bio              : "MSc in Economics"
-  location         : "São Paulo - Brazil"
+  bio              : "PhD student in Politics at NYU"
+  location         : "New York - US"
   employer         :
   pubmed           :
   googlescholar    : 
