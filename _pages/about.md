@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD student in Politics at NYU and hold an MSc in Economics from the [São Paulo School of Economics](https://economics-sp.fgv.br). I am interested in topics in comparative politics and political economy, particularly those related to electoral behavior and electoral geography, with a regional focus on Brazil.
-
+I am a PhD student in Politics at [NYU](https://as.nyu.edu/departments/politics.html) and hold an MSc in Economics from the [São Paulo School of Economics](https://economics-sp.fgv.br). My research is in comparative politics, focusing on electoral behavior and electoral geography, with a particular focus on Brazil.
 
 Education
 ======
