@@ -16,7 +16,7 @@ author_profile: true
 ## Working in Progress
 
 * **In Whose Hands: Legislators' Targeting Portfolio and the Price of Delegation in Brazil**
-  [Draft](http://gabrielcaseiro.github.io/files/caseiro_targeting_portfolio_2611)
+  [Draft](http://gabrielcaseiro.github.io/files/caseiro_targeting_portfolio_2611.pdf)
   
 * **Implied Comparative Advantage in Electoral Geography: Recovering the Latent Structure of Candidate-Location Matching**
   [Draft](http://gabrielcaseiro.github.io/files/caseiro_impliedca_2611.pdf)
